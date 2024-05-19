@@ -1,2 +1,2 @@
 *.db
-bgg_config.py
+*_config.py
